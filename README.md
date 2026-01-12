@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Susmita Miss</h1>
+<h1 align="center">Hi 👋, I'm Susmita Misser</h1>
 <h3 align="center">A passionate learner & aspiring software developer 🇮🇳</h3>
 
 ---
